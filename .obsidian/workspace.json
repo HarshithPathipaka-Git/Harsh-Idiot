@@ -1,0 +1,297 @@
+{
+  "main": {
+    "id": "f6142b6c421b8a59",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd217971b99f5302",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "524119f498fe183e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/git/git-index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "git-index"
+            }
+          },
+          {
+            "id": "b9665eb741806cce",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "e5e23c727aa2814f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/git/Git & GitHub/Adding remote to git repo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Adding remote to git repo"
+            }
+          },
+          {
+            "id": "b4b31dc696a1566e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/git/Introduction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduction"
+            }
+          },
+          {
+            "id": "1e2a7c8861e3211f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/git/commands.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "commands"
+            }
+          },
+          {
+            "id": "e1baa3bef49b3a03",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fbdebad34d474fca",
+    "type": "split",
+    "children": [
+      {
+        "id": "83f93950c3b5d9c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67ad5e299c14e156",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "440c337c5e6057f2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "3e73510894222f12",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4dd2158eb067fb61",
+    "type": "split",
+    "children": [
+      {
+        "id": "180ce0096ba0584c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf62a039d0ad5fea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "0a9ee37cc42f1fed",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "0a70aed3678583ba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "85b7f9bfa1976f50",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "46df7c3f56e4b795",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "e1baa3bef49b3a03",
+  "lastOpenFiles": [
+    "Programming/git/Introduction.md",
+    "Programming/git/git-index.md",
+    "Programming/Data Index.md",
+    "Programming/git/Branching Commands.md",
+    "Programming/git/commands.md",
+    "Programming/git/Git & GitHub/Adding remote to git repo.md",
+    "Programming/git/Git & GitHub/SSH Authentication.md",
+    "Programming/git/Git & GitHub",
+    "Programming/fullstack/html/html-index.md",
+    "Programming/python/python-index.md",
+    "repos/attack-on-titans/vite-project/node_modules/json5/README.md",
+    "repos/attack-on-titans/vite-project/public/video/one.mp4",
+    "repos/attack-on-titans/vite-project/public/images/PureTitan.png",
+    "repos/attack-on-titans/vite-project/public/images/Human.png",
+    "repos/attack-on-titans/vite-project/public/images/FemaleTitan.png",
+    "repos/attack-on-titans/vite-project/public/images/ColloselTitan.png",
+    "repos/attack-on-titans/vite-project/public/images/col.png",
+    "repos/attack-on-titans/vite-project/public/images/BeastTitan.png",
+    "repos/attack-on-titans/vite-project/public/images/ArmoredTitan.png",
+    "repos/attack-on-titans/vite-project/src/components/Titansize.jsx",
+    "repos/attack-on-titans/vite-project/src/components/Titansize.css",
+    "repos/attack-on-titans/vite-project/src/components/Navbar.jsx",
+    "repos/attack-on-titans/vite-project/src/components/Navbar.css",
+    "repos/attack-on-titans/vite-project/src/components/Hero.jsx",
+    "repos/attack-on-titans/vite-project/src/components/Hero.css",
+    "repos/attack-on-titans/vite-project/src/assets/vite.svg",
+    "repos/attack-on-titans/vite-project/src/assets/react.svg",
+    "repos/attack-on-titans/vite-project/src/assets/hero.png",
+    "repos/attack-on-titans/vite-project/node_modules/zod-validation-error/v4",
+    "repos/attack-on-titans/vite-project/node_modules/zod-validation-error/README.v3.md",
+    "repos/attack-on-titans/vite-project/node_modules/zod-validation-error/v3",
+    "repos/attack-on-titans/vite-project/node_modules/zod-validation-error/README.md",
+    "repos/attack-on-titans/vite-project/node_modules/zod/README.md",
+    "repos/attack-on-titans/vite-project/node_modules/yocto-queue/readme.md",
+    "repos/attack-on-titans/vite-project/node_modules/yallist/README.md",
+    "repos/attack-on-titans/vite-project/node_modules/word-wrap/README.md",
+    "repos/attack-on-titans/vite-project/node_modules/which/README.md",
+    "repos/attack-on-titans/vite-project/node_modules/which/CHANGELOG.md",
+    "repos/attack-on-titans/vite-project/node_modules/vite/README.md",
+    "repos/attack-on-titans/vite-project/node_modules/vite/LICENSE.md",
+    "repos/attack-on-titans/vite-project/node_modules/uri-js/README.md",
+    "repos/attack-on-titans/vite-project/node_modules/update-browserslist-db/README.md",
+    "repos/attack-on-titans/vite-project/node_modules/type-check/README.md",
+    "repos/attack-on-titans/vite-project/node_modules/shebang-command/readme.md",
+    "repos/attack-on-titans/vite-project/node_modules/tinyglobby/README.md",
+    "repos/attack-on-titans/vite-project/node_modules/source-map-js/README.md",
+    "Untitled.canvas"
+  ]
+}
