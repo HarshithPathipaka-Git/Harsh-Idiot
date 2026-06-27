@@ -4,87 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "dd217971b99f5302",
+        "id": "80a147e3ec561d91",
         "type": "tabs",
         "children": [
           {
-            "id": "524119f498fe183e",
+            "id": "0fb82fa103ab0b44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/git/git-index.md",
+                "file": "Programming/fullstack/html/html practice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "git-index"
+              "title": "html practice"
             }
           },
           {
-            "id": "b9665eb741806cce",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "e5e23c727aa2814f",
+            "id": "232f5cdbb4b41405",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/git/Git & GitHub/Adding remote to git repo.md",
+                "file": "Programming/fullstack/html/html entries.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Adding remote to git repo"
+              "title": "html entries"
             }
           },
           {
-            "id": "b4b31dc696a1566e",
+            "id": "6d88b7196bfcb506",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/git/Introduction.md",
+                "file": "Programming/fullstack/html/html-index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction"
-            }
-          },
-          {
-            "id": "1e2a7c8861e3211f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/git/commands.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "commands"
-            }
-          },
-          {
-            "id": "e1baa3bef49b3a03",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "html-index"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -244,19 +210,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "e1baa3bef49b3a03",
+  "active": "6d88b7196bfcb506",
   "lastOpenFiles": [
-    "Programming/git/Introduction.md",
-    "Programming/git/git-index.md",
+    "Programming/fullstack/html/html entries.md",
+    "Programming/fullstack/html/html practice.md",
+    "Programming/fullstack/html/Tags of html.md",
+    "Programming/fullstack/html/intro to html.md",
+    "Programming/fullstack/html/html-index.md",
+    "Programming/fullstack/html/Accessibility.md",
+    "Programming/fullstack/html/html attributes.md",
+    "Programming/fullstack/html/Semantic HTML.md",
+    "Programming/fullstack/html/layout container.md",
+    "Programming/fullstack/html/multimedia.md",
     "Programming/Data Index.md",
+    "README.md",
+    "2026-06-27.md",
+    "Untitled.canvas",
     "Programming/git/Branching Commands.md",
+    "Programming/fullstack/html/images.md",
+    "Programming/git/git-index.md",
+    "Programming/fullstack/html/Forms.md",
+    "Programming/fullstack/html/links.md",
+    "Programming/fullstack/html/lists.md",
+    "Programming/fullstack/html/tables.md",
+    "Programming/fullstack/html/text elements.md",
+    "Programming/fullstack/html/metadata.md",
+    "Programming/fullstack/css/css-index.md",
+    "Programming/git/Introduction.md",
     "Programming/git/commands.md",
     "Programming/git/Git & GitHub/Adding remote to git repo.md",
-    "Programming/git/Git & GitHub/SSH Authentication.md",
     "Programming/git/Git & GitHub",
-    "Programming/fullstack/html/html-index.md",
-    "Programming/python/python-index.md",
-    "repos/attack-on-titans/vite-project/node_modules/json5/README.md",
     "repos/attack-on-titans/vite-project/public/video/one.mp4",
     "repos/attack-on-titans/vite-project/public/images/PureTitan.png",
     "repos/attack-on-titans/vite-project/public/images/Human.png",
@@ -275,23 +258,6 @@
     "repos/attack-on-titans/vite-project/src/assets/react.svg",
     "repos/attack-on-titans/vite-project/src/assets/hero.png",
     "repos/attack-on-titans/vite-project/node_modules/zod-validation-error/v4",
-    "repos/attack-on-titans/vite-project/node_modules/zod-validation-error/README.v3.md",
-    "repos/attack-on-titans/vite-project/node_modules/zod-validation-error/v3",
-    "repos/attack-on-titans/vite-project/node_modules/zod-validation-error/README.md",
-    "repos/attack-on-titans/vite-project/node_modules/zod/README.md",
-    "repos/attack-on-titans/vite-project/node_modules/yocto-queue/readme.md",
-    "repos/attack-on-titans/vite-project/node_modules/yallist/README.md",
-    "repos/attack-on-titans/vite-project/node_modules/word-wrap/README.md",
-    "repos/attack-on-titans/vite-project/node_modules/which/README.md",
-    "repos/attack-on-titans/vite-project/node_modules/which/CHANGELOG.md",
-    "repos/attack-on-titans/vite-project/node_modules/vite/README.md",
-    "repos/attack-on-titans/vite-project/node_modules/vite/LICENSE.md",
-    "repos/attack-on-titans/vite-project/node_modules/uri-js/README.md",
-    "repos/attack-on-titans/vite-project/node_modules/update-browserslist-db/README.md",
-    "repos/attack-on-titans/vite-project/node_modules/type-check/README.md",
-    "repos/attack-on-titans/vite-project/node_modules/shebang-command/readme.md",
-    "repos/attack-on-titans/vite-project/node_modules/tinyglobby/README.md",
-    "repos/attack-on-titans/vite-project/node_modules/source-map-js/README.md",
-    "Untitled.canvas"
+    "repos/attack-on-titans/vite-project/node_modules/zod-validation-error/v3"
   ]
 }
